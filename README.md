@@ -69,10 +69,8 @@ As a dedicated full-stack developer and programmer, I've solved 400+ problems ac
 - 🏦 **ExamAdda** - Full Stack Developer Intern
 - 🏦 **Outlier** - Frontend Developer AI Freelancer
 - 🏦 **Precollege** - Frontend Developer Intern
-- 💳 Working on fintech solutions and payment system
 - 🔧 Developing web applications using modern tech stack
 - 📈 Contributing to startup growth and product development
-- 🤝 Collaborating with cross-functional teams
 
 </td>
 </tr>
