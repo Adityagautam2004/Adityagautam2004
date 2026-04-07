@@ -25,7 +25,7 @@
 I'm Aditya Gautam, a passionate Computer Science Engineering student in my pre-final year at IIIT Ranchi. Currently working as a Full Stack Developer Intern at ExamAdda, a edtech startup where I contribute to building innovative edtech solutions.
 
 ## 🚀 My Journey
-As a dedicated full-stack developer and programmer, I've solved 400+ problems across various coding platforms, worked in 3 Startups and on OUtlier as a freelancer and got projects of over 5000$+ in 1 month. My journey in tech is driven by curiosity, continuous learning, and a desire to create meaningful digital solutions.
+As a dedicated full-stack developer and programmer, I've solved 400+ problems across various coding platforms, worked in 3 Startups and on OUtlier as a freelancer and got projects of over 10000$+ in 3 month. My journey in tech is driven by curiosity, continuous learning, and a desire to create meaningful digital solutions.
 
 ## 💻 What I Do
 - 🏦 Professional Work: Contributing to edtech solutions at ExamAdda and Precollege, working with modern web technologies
@@ -58,7 +58,7 @@ As a dedicated full-stack developer and programmer, I've solved 400+ problems ac
 ### 🏛️ Educational Background
 - 🎓 **Indian Institute of Information Technology, Ranchi**
 - 💻 **Computer Science & Engineering**
-- 📊 **CGPA: 7.25**
+- 📊 **CGPA: 7.45**
 - 📅 **Expected Graduation: 2027**
 
 </td>
@@ -135,7 +135,7 @@ As a dedicated full-stack developer and programmer, I've solved 400+ problems ac
 
 ### 📬 Let's Build Something Amazing Together!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sajalnamdeo.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aditya-gautam.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gautam-2371b2204/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adityagautam2004)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adikr2002@gmail.com)
