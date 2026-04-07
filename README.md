@@ -45,7 +45,7 @@ As a dedicated full-stack developer and programmer, I've solved 400+ problems ac
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IIIT_Ranchi-7.25_CGPA-success?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/IIIT_Ranchi-7.45_CGPA-success?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pre_Final_Year-2027-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSE-B.Tech-orange?style=for-the-badge&logo=computer&logoColor=white"/>
 
