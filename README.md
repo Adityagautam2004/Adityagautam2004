@@ -58,7 +58,7 @@ As a dedicated full-stack developer and programmer, I've solved 400+ problems ac
 ### 🏛️ Educational Background
 - 🎓 **Indian Institute of Information Technology, Ranchi**
 - 💻 **Computer Science & Engineering**
-- 📊 **CGPA: 7.45**
+- 📊 **CGPA: 7.6**
 - 📅 **Expected Graduation: 2027**
 
 </td>
