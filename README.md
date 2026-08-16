@@ -22,7 +22,7 @@
 </div>
 
 ## 👋 Who Am I?
-I'm Aditya Gautam, a passionate Computer Science Engineering student in my pre-final year at IIIT Ranchi. Currently working as a Full Stack Developer Intern at ExamAdda, a edtech startup where I contribute to building innovative edtech solutions.
+I'm Aditya Gautam, a passionate Computer Science Engineering student in my final year at IIIT Ranchi. Currently working as a Full Stack Developer Intern at ExamAdda, a edtech startup where I contribute to building innovative edtech solutions.
 
 ## 🚀 My Journey
 As a dedicated full-stack developer and programmer, I've solved 400+ problems across various coding platforms, worked in 3 Startups and on OUtlier as a freelancer and got projects of over 10000$+ in 3 month. My journey in tech is driven by curiosity, continuous learning, and a desire to create meaningful digital solutions.
@@ -45,7 +45,7 @@ As a dedicated full-stack developer and programmer, I've solved 400+ problems ac
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IIIT_Ranchi-7.45_CGPA-success?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/IIIT_Ranchi-7.6_CGPA-success?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pre_Final_Year-2027-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSE-B.Tech-orange?style=for-the-badge&logo=computer&logoColor=white"/>
 
@@ -65,7 +65,7 @@ As a dedicated full-stack developer and programmer, I've solved 400+ problems ac
 <td width="50%">
 
 ### 💼 Professional Experience
-- 🏦 **Target Board** - Full Stack Developer Freelancer
+- 🏦 **Target Board** - Software Developer Intern
 - 🏦 **ExamAdda** - Full Stack Developer Intern
 - 🏦 **Outlier** - Frontend Developer AI Freelancer
 - 🏦 **Precollege** - Frontend Developer Intern
